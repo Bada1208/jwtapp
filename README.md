@@ -1,6 +1,5 @@
 # jwtapp
-JWT based spring security REST API
-REST Api with DB & CRUD operations with such entities:
+JWT based spring security REST Api with DB & CRUD operations with such entities:
 
 User (id, username, password, created, updated, lastPasswordChangeDate, Status status)
 
